@@ -1,3 +1,3 @@
 xperia-play
 ===========
-software xperia pla
+software xperia play
